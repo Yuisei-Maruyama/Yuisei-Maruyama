@@ -26,6 +26,7 @@
 <div>
   <a href="https://instagram.com/y_metro" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-7ab8f5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    ![Snake animation](https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/output/github-contribution-grid-snake.svg)
   </a>
+  
+  ![Snake animation](https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/output/github-contribution-grid-snake.svg)
 </div>
