@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Rafa-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s150x150/25007409_1863695153658284_9147156016826155008_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=Wt_B6fQQsYsAX905nnl&tn=UWbox99OH7xaHzqZ&edm=ALCvFkgBAAAA&ccb=7-4&oh=a15ab6ef81d8e2696e79ff68dcf67306&oe=61B12C06&_nc_sid=643ae9?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s150x150/25007409_1863695153658284_9147156016826155008_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=tDE0DEukj4MAX-npWHH&tn=UWbox99OH7xaHzqZ&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT_m_JEpjytg0jqgkEYPxzdkC56Yy7bJ4R5YeNuOjIsziQ&oe=61DAB346&_nc_sid=9a90d6"?width=676&height=676">
 </div>
 
 ## Links
