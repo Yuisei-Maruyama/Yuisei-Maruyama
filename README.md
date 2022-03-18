@@ -33,7 +33,7 @@
 
 <div align="center"> 
 
- ## Total iewer <br>
+ ## Total Viewer <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Yuisei-Maruyama/count.svg" />
  </p>
