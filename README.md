@@ -32,8 +32,13 @@
 <div align="center"> 
 
  ## Total Viewer <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Yuisei-Maruyama/count.svg" />
+ <div align="center"> 
+   <div>
+   <img src="https://media3.giphy.com/media/X6648OeXOftzbrkJF9/giphy.gif?cid=ecf05e47u7odehsk0gcab8n0f3n6f549switz1qnk0vco9xx&rid=giphy.gif&ct=g" width="200" />
+   </div>
+   <div>
+     <img alingn="center" src="https://profile-counter.glitch.me/Yuisei-Maruyama/count.svg" width="350" />
+   </div>
  </p>
 
 </div>
