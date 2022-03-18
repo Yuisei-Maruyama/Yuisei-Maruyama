@@ -6,19 +6,11 @@
 </div>
   
 ## Skills
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Rafa-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="Rafa-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s150x150/25007409_1863695153658284_9147156016826155008_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=tDE0DEukj4MAX-npWHH&tn=UWbox99OH7xaHzqZ&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT_m_JEpjytg0jqgkEYPxzdkC56Yy7bJ4R5YeNuOjIsziQ&oe=61DAB346&_nc_sid=9a90d6"?width=676&height=676">
-</div>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e477gte38qoxxm3b0fjdn6dia6tcptwu9ysx5xybs9y&rid=giphy.gif&ct=s" width="100"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
 
 ## Links
   
