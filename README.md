@@ -2,6 +2,10 @@
 
 ## Stats
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&config.timezone=Asia%2FTokyo&config.display=large&config.padding=0%2C%208%20%2B%205%25">
+</div>
+
 <div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuisei-Maruyama&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuisei-Maruyama&layout=compact&langs_count=7&theme=ocean_dark"/>
@@ -12,14 +16,28 @@
   <img src="https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
+  <table>
+    <tr>
+      <th colspan="2"><h3>📅 Isometric commit calendar</h3></th>
+      <th colspan="2"><h3>📓 Recently Active Status</h3></th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <details open><summary>Full year calendar</summary><img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25" alt=""></img></details>
+        <details open><summary>Half year calendar</summary><img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+      <td colspan="2" align="center">
+        <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&activity=1&achievements=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=7&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25">
+      </td>
+    </tr>
+  </table>
+
 ## Skills
 
 <p align="center">
   <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e477gte38qoxxm3b0fjdn6dia6tcptwu9ysx5xybs9y&rid=giphy.gif&ct=s" width="100"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
-
-<img src="https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/main/github-metrics.svg" />
-
 
 ## Links
   
