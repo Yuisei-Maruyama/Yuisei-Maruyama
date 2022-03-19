@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25" width="600">
+  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FTokyo&config.display=large&config.padding=0%2C%208%20%2B%205%25" width="600">
 </div>
 
 <div align="center">
