@@ -4,26 +4,16 @@
 
 ## Stats
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&config.timezone=Asia%2FTokyo&config.display=large&config.padding=0%2C%208%20%2B%205%25">
-</div>
-
 <div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuisei-Maruyama&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuisei-Maruyama&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 <div>
+  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&isocalendar=1&stars=1&people=1&activity=1&achievements=1&repositories=1&pagespeed=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&stars.limit=7&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Asia%2FTokyo&config.twemoji=true&config.padding=0%2C%208%20%2B%205%25" />
+<div>
   <a href="https://github.com/Yuisei-Maruyama/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yuisei-Maruyama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <img src="https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FTokyo&config.display=large&config.padding=0%2C%208%20%2B%205%25" width="600">
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&activity=1&achievements=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=7&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25">
 </div>
 
 ## Skills
