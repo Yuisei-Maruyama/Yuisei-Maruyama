@@ -16,22 +16,13 @@
   <img src="https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-  <table>
-    <tr>
-      <th colspan="2"><h3>📅 Isometric commit calendar</h3></th>
-      <th colspan="2"><h3>📓 Recently Active Status</h3></th>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <details open><summary>Full year calendar</summary><img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25" alt=""></img></details>
-        <details open><summary>Half year calendar</summary><img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-      <td colspan="2" align="center">
-        <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&activity=1&achievements=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=7&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25">
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25" width="600">
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/Yuisei-Maruyama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&activity=1&achievements=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=7&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTokyo&config.padding=0%2C%208%20%2B%205%25">
+</div>
 
 ## Skills
 
