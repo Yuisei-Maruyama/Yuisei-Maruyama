@@ -1,4 +1,6 @@
-## My name is Yuisei Maruyama
+<div align="center">
+  <img src="https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=ecf05e47k1ubicczeijyqawfgiwi52moisc7vut2fdcd9dik&rid=giphy.gif&ct=g" width="650">
+</div>
 
 ## Stats
 
