@@ -13,6 +13,8 @@
   <img src="https://github.com/Coordinate-Cat/Yuisei-Maruyama/blob/main/github-metrics.svg" />
   <img src="https://github.com/Coordinate-Cat/Yuisei-Maruyama/blob/main/metrics.plugin.isocalendar.svg" />
   
+  <a href="https://github.com/Yuisei-Maruyama/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yuisei-Maruyama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
   <img src="https://github.com/Yuisei-Maruyama/Yuisei-Maruyama/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
