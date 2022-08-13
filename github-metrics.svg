@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typestack/class-validator</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decorator-based property validation for classes.</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arwes/arwes</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Futuristic Sci-Fi UI Web Framework.</div>
@@ -746,7 +746,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.74m out of 95m users</span>
+                                    <span class="gh">ranked 3.74m out of 96m users</span>
                                 </div>
                                 <div class="text">Published 12 public repositories</div>
                             </div>
@@ -861,7 +861,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 641k out of 95m users</span>
+                                    <span class="gh">ranked 641k out of 96m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -876,7 +876,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.880219028062963 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.0924024640657155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1147,7 +1147,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2022, 15:16:10 (timezone Asia/Tokyo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 21:22:25 (timezone Asia/Tokyo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
