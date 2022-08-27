@@ -326,7 +326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/defu</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Assign default properties, recursively. 🌊</div>
@@ -379,7 +379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorilla/websocket</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, well-tested and widely used WebSocket implementation for Go.</div>
@@ -1149,7 +1149,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 21:27:35 (timezone Asia/Tokyo) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 03:16:14 (timezone Asia/Tokyo) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
