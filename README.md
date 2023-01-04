@@ -24,16 +24,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e477gte38qoxxm3b0fjdn6dia6tcptwu9ysx5xybs9y&rid=giphy.gif&ct=s" width="100"><img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
-
-## Links
-  
-<div>
-  <a href="https://instagram.com/y_metro" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-b92892?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
                                                                                                                                 
-
 <div align="center"> 
 
  ## Total Viewer <br>
