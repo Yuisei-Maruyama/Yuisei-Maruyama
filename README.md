@@ -4,7 +4,7 @@
 
 <!-- HEADER: Waving Capsule Render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=220&section=header&text=YUISEI%20MARUYAMA&fontSize=42&fontColor=E0E0E0&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Tokyo&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=220&section=header&text=YUISEI%20MARUYAMA&fontSize=42&fontColor=E0E0E0&animation=fadeIn&fontAlignY=35&desc=Engineer%20%7C%20Tokyo&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -39,7 +39,7 @@ yuisei@tokyo:~$ neofetch
 ```
                     ╭──────────────────────────────────╮
   ██╗   ██╗██╗   ██╗██╗    │                                  │
-  ╚██╗ ██╔╝██║   ██║██║    │  Role:     Frontend Engineer      │
+  ╚██╗ ██╔╝██║   ██║██║    │  Role:     Engineer               │
    ╚████╔╝ ██║   ██║██║    │  Host:     Tokyo, Japan           │
     ╚██╔╝  ██║   ██║██║    │  Uptime:   Since 2019             │
      ██║   ╚██████╔╝██║    │  Shell:    TypeScript + React     │
